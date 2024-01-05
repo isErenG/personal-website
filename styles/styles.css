@@ -1,0 +1,30 @@
+.box {
+    max-width: 500px;
+    padding:20px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    border: solid 2px rgb(248, 224, 90);
+    flex-direction: column;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(14, 13, 13);
+}
+
+
+.map {
+    border:0; 
+    filter:grayscale(100%) invert(100%);
+    padding:20px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+.header{
+    font-weight: bolder;
+}
+
