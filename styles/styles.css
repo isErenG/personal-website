@@ -16,15 +16,20 @@
     font-weight: bolder;
 }
 
-
-
 .skills{
     justify-content: center;
     align-items: center;
+    width: 200px;
+    margin: 2%;
 }
 .skills ul{
     padding-left: 0;
 }
 .skills h1 {
     margin-bottom: 0;
+}
+
+.skills-interests {
+    display: flex;
+    justify-content: center;
 }
